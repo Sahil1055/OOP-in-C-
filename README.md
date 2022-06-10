@@ -1,3 +1,3 @@
 # OOP-in-C-
 
-This PPT oresentation contains my work in C++ OOP for KOSS task round 2
+This PPT presentation attached contains my work in C++ OOP for KOSS task round 2
